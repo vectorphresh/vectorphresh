@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vectorphresh
-- 👀 I’m interested in web3, artificial intelligence, and game development
-- 🌱 I’m currently learning python and javascript
-- 💞️ I’m looking to collaborate on nothing at the moment, but you can reach out if you have questions
-- 📫 How to reach me ...
+- 👀 I’m interested in web3, deep reinforcement learning, and game development
+- 🌱 I’m currently learning typescript and javascript
+- 💞️ Not looking to collaborate at the moment, but you can reach out if you have questions
+- 📫 How to reach me ... phreshcreates _at_ gmail _dot_ com
 
 <!---
 vectorphresh/vectorphresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
